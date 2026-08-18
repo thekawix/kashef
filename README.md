@@ -15,3 +15,11 @@ Powerful OSINT tool for tracking location, phone numbers, and gathering informat
 ```bash
 sudo apt-get update
 sudo apt-get install git python3 python3-pip
+
+
+### Usage Tool
+```
+git clone https://github.com/thekawix/kashef.git
+cd kashef
+pip3 install -r req.txt
+python3 kashef.py
