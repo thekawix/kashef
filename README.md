@@ -18,7 +18,7 @@ sudo apt-get install git python3 python3-pip
 
 
 ### Usage Tool
-```
+
 git clone https://github.com/thekawix/kashef.git
 cd kashef
 pip3 install -r req.txt
